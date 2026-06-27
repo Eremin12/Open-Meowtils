@@ -1,0 +1,10 @@
+{
+  "crit": {
+    "category": "player",
+    "sounds": [
+      "meowtils:crit/Crit1",
+      "meowtils:crit/Crit2",
+      "meowtils:crit/Crit3"
+    ]
+  }
+}

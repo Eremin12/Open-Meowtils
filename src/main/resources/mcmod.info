@@ -1,0 +1,16 @@
+    [
+{
+  "modid": "Meowtils",
+  "name": "Meowtils Mod",
+  "description": "Meow Overlay Mod for Hypixel",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["@WindyTeam deobf"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
